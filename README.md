@@ -7,7 +7,7 @@ FirstExample
 5. Суммирование результатов: После завершения всех задач мы суммируем результаты из массива results и выводим общую сумму.
 
 SecondExample
-код - https://github.com/villagersi/ASVT_LAB2/blob/main/Labs_ASVT/Program.cs
+код - https://github.com/villagersi/ASVT_LAB2/blob/main/Lab2_secondExample/Program.cs
 1. Указание директории: В переменной directoryPath укажите путь к директории, содержащей текстовые файлы.
 2. Получение файлов: Мы используем Directory.GetFiles() для получения списка всех текстовых файлов в указанной директории.
 3. Создание задач: Мы создаем массив задач tasks, где каждая задача будет подсчитывать количество строк в своем соответствующем файле с помощью метода CountLinesInFile.
