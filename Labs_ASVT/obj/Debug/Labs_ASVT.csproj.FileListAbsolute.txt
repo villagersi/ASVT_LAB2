@@ -1,0 +1,7 @@
+D:\Programms\VisualStudioProjects\Labs_ASVT\bin\Debug\Labs_ASVT.exe.config
+D:\Programms\VisualStudioProjects\Labs_ASVT\bin\Debug\Labs_ASVT.exe
+D:\Programms\VisualStudioProjects\Labs_ASVT\bin\Debug\Labs_ASVT.pdb
+D:\Programms\VisualStudioProjects\Labs_ASVT\obj\Debug\Labs_ASVT.csproj.AssemblyReference.cache
+D:\Programms\VisualStudioProjects\Labs_ASVT\obj\Debug\Labs_ASVT.csproj.CoreCompileInputs.cache
+D:\Programms\VisualStudioProjects\Labs_ASVT\obj\Debug\Labs_ASVT.exe
+D:\Programms\VisualStudioProjects\Labs_ASVT\obj\Debug\Labs_ASVT.pdb
